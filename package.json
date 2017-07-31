@@ -1,0 +1,28 @@
+{
+  "name": "dirm",
+  "version": "0.5.2",
+  "description": "Lightning ⚡ speed directory management from the terminal.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "keywords": [
+    "file",
+    "manager",
+    "CLI",
+    "e-mail",
+    "file sharing"
+  ],
+  "author": "Nikhil Raghavendra <raghavendranikhil@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^2.0.1",
+    "figlet": "^1.2.0",
+    "inquirer": "^3.2.1",
+    "nodemailer": "^4.0.1",
+    "rimraf": "^2.6.1"
+  },
+  "bin": {
+    "dirm": "./index.js"
+  }
+}
