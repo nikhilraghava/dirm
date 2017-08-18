@@ -1,6 +1,6 @@
-{
+﻿{
   "name": "dirm",
-  "version": "0.5.2",
+  "version": "1.0.0",
   "description": "Lightning ⚡ speed directory management from the terminal.",
   "main": "index.js",
   "scripts": {
